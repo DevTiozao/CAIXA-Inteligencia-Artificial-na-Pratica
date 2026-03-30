@@ -9,7 +9,7 @@ Bem-vindo ao meu repositório de transição de carreira. Aqui organizo todo o p
 | Documento | Descrição | Link |
 | :--- | :--- | :--- |
 | 🕵️ **Simulando Entrevista** | Entrevista e Perfil Inicial | [Acessar](./IA_Pergunta_Desenvolvendo_Simulador_Entrevistaa.md) |
-| 🛠️ **Criando meu Roteiro de Carreira** | Planejador de Carreira (Roadmap 120 dias) | [Ver Roadmap](./Criando_meu_Roteiro_Carreira.md) |
+| 🛠️ **Criando meu Roteiro de Carreira** | Planejador de Carreira (Roadmap 120 dias) | [Acessar](./Criando_meu_Roteiro_Carreira.md) |
 | 🧠 **SKILLS** | Mapa de Habilidades Técnicas | [Ver Skills](./skill-map.md) |
 
 ---
